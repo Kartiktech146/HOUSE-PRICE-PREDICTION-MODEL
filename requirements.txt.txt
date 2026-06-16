@@ -1,0 +1,4 @@
+streamlit
+NumPy
+scikit learn
+
